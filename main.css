@@ -1,0 +1,37 @@
+#hatter{
+    color: white;
+    background-color: orange;
+}
+
+#igazitas_01{
+    padding-left: 38px;
+    font-size: medium;
+
+}
+#igazitas_02{
+    padding-left: 90px
+    
+}
+#igazitas_03{
+    padding-left: 100px;
+}
+#igazitas_04{
+    padding-left: 100px;
+}
+#igazitas_05{
+    padding-left: 55px;
+}
+
+.Sor{
+    border-bottom: 1px solid,black;
+}
+
+h2{
+    color:orange;
+}
+p{
+    padding-left: 200px;
+}
+#gomb{
+    color: orange;
+}
